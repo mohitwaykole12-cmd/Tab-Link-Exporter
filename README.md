@@ -170,7 +170,3 @@ For example, after changing `popup.js`:
 - Add tab grouping
 - Add dark mode
 - Publish to the Chrome Web Store
-
-## License
-
-Add a license here if you plan to distribute the project publicly.
